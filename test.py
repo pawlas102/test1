@@ -8,7 +8,7 @@ def generate_ascii_names():
 
     names = ["World", "James", "Jane", "Kirk"]  # Zmieniamy na same imiona, "hello" dodamy później
 
-    print("--- Powitania w stylu ASCII Art ---")
+    print("----- Powitania w stylu ASCII Art -----")
     print("-" * 40)
 
     for name in names:
